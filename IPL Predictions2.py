@@ -280,4 +280,4 @@ from sklearn.metrics import confusion_matrix
 cm_xg = confusion_matrix(y_test, y_pred6)
 print(cm_xg)
 
-#with learning_rate of 0.01 and some other parameteres we get a good accuracy score.
+#with learning_rate of 0.01 and some other parameteres we achieved a better accuracy score compared to other models.
